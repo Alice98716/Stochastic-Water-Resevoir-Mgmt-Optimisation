@@ -1,2 +1,2 @@
 # Stochastic-Water-Resevoir-Mgmt-Optimisation
-Two-stage stochastic transportation problem with uncertain demand, solved using the L-shaped multi-cut method with regularization.
+Two-stage stochastic problem dealing with reservoir optimisation with uncertainty of demand and water inflow. Implemented with Julia and Gurobi.
